@@ -1,0 +1,1 @@
+Clase de Coderhouse en el cual se utilizó grids. en la brans prueba se mostrarán las media query
